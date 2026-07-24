@@ -1,6 +1,6 @@
 ### 💫 About Me:
 ---
-Hi, I'm Ihsan! I'm a Person who loves Photograph and Excited exploring the world of Gadget here on GitHub 
+Hi, I'm Ihsan! I'm a Person who loves Photograph (Shoot With Fujifilm XH1) and Excited exploring the world of Gadget here on GitHub 
 
 (Currently non active)
 
