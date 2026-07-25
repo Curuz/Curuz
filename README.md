@@ -28,3 +28,11 @@ For me, the perfect blend of visual creativity, clean code, and the right hardwa
 Klik tombol di bawah untuk melihat repositori hasil foto saya:
 
 [![View Portfolio](https://img.shields.io/badge/Explore_Porto_Repo-1E1E1E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Curuz/Porto)
+
+<img width="4000" height="6000" alt="DSC02544" src="https://github.com/user-attachments/assets/f4abf06b-43b5-4748-b408-0eab92b48063" />)
+
+<img width="4000" height="6000" alt="DSC02758" src="https://github.com/user-attachments/assets/83653ea2-1aa1-4218-af30-a33d3f7f9c6c" />
+
+(<img width="2304" height="4096" alt="IMG_20260512_152840" src="https://github.com/user-attachments/assets/a0428c3d-98ff-4189-a5bf-3e5989062154" />
+
+
