@@ -6,6 +6,11 @@ Hi, I'm Ihsan! I'm a Person who loves Photograph (Shoot With Fujifilm XH1) and E
 
 Besides my passion for capturing moments and telling stories through my lens, I have a massive interest in tech gadgets and productivity gear. I am super enthusiastic about everything related to camera tech, keyboards ⌨️, mice 🖱️, headsets 🎧, laptops 💻, and the perfect lighting setups! 💡 
 
+
+<img width="3999" height="2810" alt="DSC02319 (1)" src="https://github.com/user-attachments/assets/89415b94-fa00-4cdd-bc13-f799ccd4b4fe" />
+
+
+
 For me, the perfect blend of visual creativity, clean code, and the right hardware is the absolute key to creating my best work. 
 
 ---
