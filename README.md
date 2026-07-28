@@ -44,3 +44,6 @@ Klik tombol di bawah untuk melihat repositori hasil foto alam saya:
 Klik tombol di bawah untuk melihat repositori hasil foto Kendaraan saya:
 
 ![View Portfolio](https://img.shields.io/badge/Explore_Porto_Repo-1E1E1E?style=for-the-badge&logo=github&logoColor=white)
+
+<img width="5828" height="4000" alt="DSC02769" src="https://github.com/user-attachments/assets/eb5f5e59-9124-4fd7-8694-df0b560be419" />
+
