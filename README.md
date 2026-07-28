@@ -1,6 +1,6 @@
 ### 💫 About Me:
 ---
-Hi, I'm Ihsan! I'm a Person who loves Photograph (Shoot With Fujifilm XH1) and Excited exploring the world of Gadget here on GitHub 
+Hi, I'm Ihsan! I'm a Person who loves Photograph Nature and Vehicle (Shoot With Fujifilm XH1) and Excited exploring the world of Gadget here on GitHub 
 
 (Currently non active)
 
@@ -30,7 +30,7 @@ For me, the perfect blend of visual creativity, clean code, and the right hardwa
 ****
 
 ### 📷 Check Out My Photo Gallery
-Klik tombol di bawah untuk melihat repositori hasil foto saya:
+Klik tombol di bawah untuk melihat repositori hasil foto alam saya:
 
 [![View Portfolio](https://img.shields.io/badge/Explore_Porto_Repo-1E1E1E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Curuz/Porto)
 
@@ -40,4 +40,5 @@ Klik tombol di bawah untuk melihat repositori hasil foto saya:
 
 <img width="2304" height="4096" alt="IMG_20260512_152840" src="https://github.com/user-attachments/assets/a0428c3d-98ff-4189-a5bf-3e5989062154" />
 
-
+### 📷 Check Out My Photo Gallery
+Klik tombol di bawah untuk melihat repositori hasil foto Kendaraan saya:
